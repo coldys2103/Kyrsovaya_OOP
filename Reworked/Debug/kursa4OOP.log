@@ -1,0 +1,12 @@
+﻿  kursa4OOP.cpp
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(587,64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(610,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(653,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(200): warning C4715: Controlers::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(286): warning C4715: Mouse::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(364): warning C4715: Optical::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(425): warning C4715: Trackball::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(493): warning C4715: Keybord::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(571): warning C4715: Membran::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\kursa4OOP\kursa4OOP\kursa4OOP.cpp(656): warning C4715: Mechanical::create_file: значение возвращается не при всех путях выполнения
+  kursa4OOP.vcxproj -> C:\Users\barab\source\repos\kursa4OOP\Debug\kursa4OOP.exe
