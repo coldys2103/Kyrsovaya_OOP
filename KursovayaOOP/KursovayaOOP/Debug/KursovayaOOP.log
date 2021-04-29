@@ -1,0 +1,12 @@
+﻿  KursovayaOOP.cpp
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(581,64): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(604,30): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(644,96): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(199): warning C4715: Controlers::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(284): warning C4715: Mouse::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(361): warning C4715: Optical::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(421): warning C4715: Trackball::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(488): warning C4715: Keybord::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(565): warning C4715: Membran::create_file: значение возвращается не при всех путях выполнения
+C:\Users\barab\source\repos\KursovayaOOP\KursovayaOOP\KursovayaOOP.cpp(647): warning C4715: Mechanical::create_file: значение возвращается не при всех путях выполнения
+  KursovayaOOP.vcxproj -> C:\Users\barab\source\repos\KursovayaOOP\Debug\KursovayaOOP.exe
